@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋        
+![](https://github-readme-stats.vercel.app/api?username=NirvanJain&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NirvanJain&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NirvanJain&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!--
 **aman-singh-3/aman-singh-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
