@@ -1,8 +1,20 @@
  <div align="center"> 
 
-# 💫 Hi 👋, I'm Aman Singh
+<!--# 💫 Hi 👋, I'm Aman Singh
 
 🎓A passionate Computer Science Engineering student at Kalvium, specializing in Software Product Engineering.
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=%F0%9F%92%AB%20Hi%20%F0%9F%91%8B%2C%20I'm%20Aman%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8E%93%20Computer%20Science%20Engineering%20Student%20at%20Kalvium%20%7C%20Software%20Product%20Engineering&descAlignY=62"/>
+
+
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&lines=Python+%7C+Java+%7C+C%2B%2B%7C+DSA+%7C+Full-Stack+Development;Strong+Computer+Science+Foundations;Clean+Code+%26+Problem+Solving;Consistent+Learning+Mindset"/>
+
+
+
+
 
 
 
