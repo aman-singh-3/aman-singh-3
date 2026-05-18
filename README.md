@@ -1,116 +1,220 @@
- <div align="center"> 
+```md
+<h2 align="left">Heyy, Aman here.</h2>
 
-<!--# 💫 Hi 👋, I'm Aman Singh
+###
 
-🎓A passionate Computer Science Engineering student at Kalvium, specializing in Software Product Engineering.
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=%F0%9F%92%AB%20Hi%20%F0%9F%91%8B%2C%20I'm%20Aman%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8E%93%20Computer%20Science%20Engineering%20Student%20at%20Kalvium%20%7C%20Software%20Product%20Engineering&descAlignY=62"/>
+<div align="left">
+</div>
 
+###
 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA2cHdib29wd3M2eDlpNWVseWF3YjJkOG50OWpkMXg0cngxZTJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 
+###
 
+<h3 align="left">Hello World!! 👋</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&lines=Python+%7C+Java+%7C+C%2B%2B%7C+DSA+%7C+Full-Stack+Development;Strong+Computer+Science+Foundations;Clean+Code+%26+Problem+Solving;Consistent+Learning+Mindset"/>
+<p align="left">
+I’m Aman Singh, a Computer Science Engineering student specializing in Software Product Engineering with strong interests in Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Full-Stack Development, and Problem Solving.<br><br>
 
+Currently pursuing M.Tech in AI-ML while continuously building projects, improving DSA skills, and exploring modern software engineering practices. I enjoy creating scalable applications, experimenting with AI technologies, and learning how real-world systems work.
+</p>
 
+###
 
-
-
-
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-28a778363/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/amansingh0_12/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_singh_0596) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman7t6s@gmial.com) 
-
-
-
-
-
-  
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows_terminal-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/after_effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aman-singh-12&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aman-singh-12&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-12&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake.svg" />
-    <img alt="Snake animation"
-         src="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake.svg" />
-</picture>
-
-[![](https://visitcount.itsvg.in/api?id=aman-singh-12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-12&theme=vision_friendly_dark&utcOffset=8)
-  
-
-
-
-<!-- </div><br>
-Snake Game Repo View 
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> --> 
 
+<a href="https://www.linkedin.com/in/aman-singh-28a778363/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=aman-singh-3&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://leetcode.com/u/amansingh0_12/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+</a>
 
+<a href="https://instagram.com/aman_singh_0596" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=aman-singh-3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<a href="mailto:aman7t6s@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
+###
+
+## ⚙️ Tech Stack
+
+<br clear="both">
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwindcss logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" alt="aws logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="visualstudio logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="threejs logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="45" alt="rust logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
+
+</div>
+
+###
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman-singh-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-singh-12&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=aman-singh-12&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+###
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+🔹 Artificial Intelligence & Machine Learning  
+🔹 Generative AI & Agentic AI  
+🔹 Data Structures & Algorithms  
+🔹 Full-Stack Web Development  
+🔹 Software Engineering & System Design  
+🔹 Cloud & Modern Development Tools  
+
+</div>
+
+###
+
+## 🎧 Recently Played
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=5&unique=true" />
+</div>
+
+###
+
+## 💻 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+###
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman-singh-12&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+
+</div>
+
+###
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+###
+
+## 🚀 Profile Views
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=aman-singh-12&icon=5&color=6" />
+
+</div>
+```
