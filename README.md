@@ -1,115 +1,144 @@
- <div align="center"> 
-
-<!--# 💫 Hi 👋, I'm Aman Singh
-
-🎓A passionate Computer Science Engineering student at Kalvium, specializing in Software Product Engineering.
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=%F0%9F%92%AB%20Hi%20%F0%9F%91%8B%2C%20I'm%20Aman%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8E%93%20Computer%20Science%20Engineering%20Student%20at%20Kalvium%20%7C%20Software%20Product%20Engineering&descAlignY=62"/>
-
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&lines=Python+%7C+Java+%7C+C%2B%2B%7C+DSA+%7C+Full-Stack+Development;Strong+Computer+Science+Foundations;Clean+Code+%26+Problem+Solving;Consistent+Learning+Mindset"/>
-
-
-
-
-
-
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-28a778363/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/amansingh0_12/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_singh_0596) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman7t6s@gmial.com) 
-
-
-
-
-
-  
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows_terminal-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/after_effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aman-singh-12&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aman-singh-12&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-12&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake.svg" />
-    <img alt="Snake animation"
-         src="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake.svg" />
-</picture>
-
-[![](https://visitcount.itsvg.in/api?id=aman-singh-12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-12&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-12&theme=vision_friendly_dark&utcOffset=8)
-  
-
-
-
-<!-- </div><br>
-Snake Game Repo View 
-
+```md
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> --> 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Hi%20👋,%20I'm%20Aman%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Product%20Engineering%20Student%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60"/>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=aman-singh-3&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+DSA;Software+Product+Engineering+Student;Building+Real+World+Projects;Always+Learning+Something+New+🚀"/>
 
+<br><br>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=aman-singh-3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2J1YWZubGdjaTdsOHZleDA5dG8xOW5rZ2tpbTFzNTVvb3pmcDJrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" width="450"/>
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/aman-singh-12">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aman-singh-28a778363/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:aman7t6s@gmial.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/aman_singh_0596">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 💫 About Me
+
+🎓 Software Product Engineering Student at Kalvium  
+💻 Passionate about Full Stack Development & Problem Solving  
+🚀 Exploring Open Source, Web Development & Real World Projects  
+🌱 Currently learning advanced React and backend development  
+⚡ Love building modern UI/UX and interactive applications  
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind,bootstrap,redux,mongodb,mysql,firebase,git,github,vscode,linux,figma,photoshop&perline=6"/>
+
 </div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-singh-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singh-12&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aman-singh-12/aman-singh-12/output/snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman-singh-12&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-singh-12&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7FF&color=00F7FF"/>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aman-singh-12&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚡ Coding Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="420"/>
+
+</div>
+
+---
+
+# 💻 Dev Vibes
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wz7m3j4xj3k4j2w5n2h0x7z6ce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
+```
